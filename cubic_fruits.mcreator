@@ -1,0 +1,178 @@
+{
+  "mod_elements": [
+    {
+      "name": "LightAte",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "light_ate",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ],
+        "files": [
+          "src/main/java/net/mcreator/cubicfruits/procedures/LightAteProcedure.java"
+        ]
+      },
+      "path": "~/LightFruit"
+    },
+    {
+      "name": "Light",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "light",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/cubic_fruits/models/item/light.json",
+          "src/main/java/net/mcreator/cubicfruits/item/LightItem.java"
+        ]
+      },
+      "path": "~/LightFruit"
+    },
+    {
+      "name": "Ability1Light",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "ability_1_light",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ],
+        "files": [
+          "src/main/java/net/mcreator/cubicfruits/procedures/Ability1LightProcedure.java"
+        ]
+      }
+    },
+    {
+      "name": "Ability1T",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ability_1_t",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ],
+        "files": [
+          "src/main/java/net/mcreator/cubicfruits/procedures/Ability1TProcedure.java"
+        ]
+      }
+    },
+    {
+      "name": "Ability1",
+      "type": "keybind",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ability_1",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/cubicfruits/network/Ability1Message.java"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [
+    {
+      "name": "fruit",
+      "type": "string",
+      "scope": "player_persistent",
+      "value": "\"\""
+    },
+    {
+      "name": "fruituser",
+      "type": "logic",
+      "scope": "player_persistent",
+      "value": "false"
+    },
+    {
+      "name": "mastery_light",
+      "type": "number",
+      "scope": "player_persistent",
+      "value": "0"
+    },
+    {
+      "name": "currentfruitmastery",
+      "type": "number",
+      "scope": "player_persistent",
+      "value": "0"
+    },
+    {
+      "name": "servertick",
+      "type": "number",
+      "scope": "map",
+      "value": "0"
+    }
+  ],
+  "sound_elements": [],
+  "tag_elements": {},
+  "tab_element_order": {},
+  "language_map": {
+    "en_us": {
+      "item.cubic_fruits.light": "Light",
+      "key.cubic_fruits.ability_1": "Ability 1"
+    }
+  },
+  "metadata": {
+    "files": [
+      "src/main/java/net/mcreator/cubicfruits/init/CubicFruitsModKeyMappings.java",
+      "src/main/java/net/mcreator/cubicfruits/init/CubicFruitsModItems.java",
+      "src/main/resources/META-INF/neoforge.mods.toml",
+      "src/main/resources/pack.mcmeta",
+      "src/main/java/net/mcreator/cubicfruits/client/RenderUtils.java",
+      "src/main/java/net/mcreator/cubicfruits/network/CubicFruitsModVariables.java",
+      "src/main/java/net/mcreator/cubicfruits/CubicFruitsMod.java"
+    ]
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "Ability Triggers",
+        "children": []
+      },
+      {
+        "name": "LightFruit",
+        "children": []
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "cubic_fruits",
+    "modName": "Cubic Fruits",
+    "version": "0.1",
+    "description": "Fruits in MC",
+    "author": "mactoxa (MacToxa)",
+    "websiteURL": "https://www.curseforge.com/minecraft/mc-mods/cubic-fruits",
+    "license": "GNU General Public License version 3 (GPLv3)",
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [
+      "nexus_compiler"
+    ],
+    "currentGenerator": "neoforge-1.21.1",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.cubicfruits"
+  },
+  "mcreatorVersion": 202500345720
+}
