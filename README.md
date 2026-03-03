@@ -17,6 +17,7 @@ Todo list:
    - Rubber
    - ...
 - Mastery
+   - 
 - Haki/Aura
    - Haki
      - Able to hit elemental/logia fruits
@@ -24,9 +25,13 @@ Todo list:
    - Observation Haki
      - ..?
 - Races
-  - Probably added using Origins
+  - Added using Origins
+  - Remove other Origins by default
 - Sword styles:
-  - 2 / 3 sword versions of every sword in the game
+  - Curios "mouth" slot for swords
+  - offhand + main hand = two sword style
+  - offhand + mouth + main hand = three sword style
+  - unique attack with each sword combination?
   - ..?
 - Obtaining items
   - Fruit traders
