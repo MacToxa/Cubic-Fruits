@@ -9,7 +9,7 @@ Made with [MCreator](https://mcreator.net/)
 
 - Modrith might be coming soon after the release of the mod's remake.
 
-### Todo list:
+### Planned stuff:
 - Fruits
    - Light
    - Bomb
@@ -50,6 +50,7 @@ Made with [MCreator](https://mcreator.net/)
     - ? Max level villagers
   - Sword traders
     - ? Blacksmith
-
+### Currently working on:
+- Six Powers
 
 If you want to talk to me for whatever reason, reach out to me on Discord (mactoxa) or write to my email (tomlomhom@outlook.com).
