@@ -29,6 +29,7 @@ Made with [MCreator](https://mcreator.net/)
    - Six Powers mastery
    - FS mastery
    - Sword style mastery
+   - Mastery menu with progress for every mastery
 - Haki/Aura
    - Haki
      - Able to hit elemental/logia fruits
@@ -50,6 +51,7 @@ Made with [MCreator](https://mcreator.net/)
     - ? Max level villagers
   - Sword traders
     - ? Blacksmith
+- In-game wiki
 ### Currently working on:
 - Six Powers
 
