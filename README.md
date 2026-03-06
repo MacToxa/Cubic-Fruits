@@ -9,15 +9,26 @@ Made with [MCreator](https://mcreator.net/)
 
 - Modrith might be coming soon after the release of the mod's remake.
 
-Todo list:
+### Todo list:
 - Fruits
    - Light
    - Bomb
    - Rumble
    - Rubber
    - ...
+- Six Powers
+   - Geppo
+   - Tekkai
+   - Rankyaku
+   - Soru
+   - Shigan
+   - Kami-e
+   - Rokuogan
 - Mastery
-   - 
+   - Fruit mastery
+   - Six Powers mastery
+   - FS mastery
+   - Sword style mastery
 - Haki/Aura
    - Haki
      - Able to hit elemental/logia fruits
@@ -31,14 +42,14 @@ Todo list:
   - Curios "mouth" slot for swords
   - offhand + main hand = two sword style
   - offhand + mouth + main hand = three sword style
-  - unique attack with each sword combination?
+  - ? unique attack with each sword combination
   - ..?
 - Obtaining items
   - Fruit traders
     - Random fruits (gacha)
-    - Max level villagers?
+    - ? Max level villagers
   - Sword traders
-    - Blacksmith?
+    - ? Blacksmith
 
 
 If you want to talk to me for whatever reason, reach out to me on Discord (mactoxa) or write to my email (tomlomhom@outlook.com).
