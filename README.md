@@ -52,6 +52,9 @@ Made with [MCreator](https://mcreator.net/)
   - Sword traders
     - ? Blacksmith
 - In-game wiki
+- Everything should be toggleable in the config
+   - Induvidial abilities, fruits, etc
+   - Blox Fruits & One Piece presets for configs
 ### Currently working on:
 - Six Powers
 
