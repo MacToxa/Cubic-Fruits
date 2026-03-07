@@ -1,0 +1,12 @@
+{
+  "_fv": 79,
+  "_type": "keybind",
+  "definition": {
+    "triggerKey": "H",
+    "keyBindingName": "Iron Body (Tekkai)",
+    "keyBindingCategoryKey": "misc",
+    "onKeyPressed": {
+      "name": "TekkaiScript"
+    }
+  }
+}

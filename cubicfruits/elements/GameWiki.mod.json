@@ -1,0 +1,12 @@
+{
+  "_fv": 79,
+  "_type": "keybind",
+  "definition": {
+    "triggerKey": "F6",
+    "keyBindingName": "In-game wiki",
+    "keyBindingCategoryKey": "misc",
+    "onKeyPressed": {
+      "name": "GameWikiScript"
+    }
+  }
+}

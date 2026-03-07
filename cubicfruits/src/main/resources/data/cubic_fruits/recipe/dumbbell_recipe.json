@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "a  ",
+    "bcb",
+    "  a"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:black_dye"
+    },
+    "b": {
+      "item": "minecraft:diamond_block"
+    },
+    "c": {
+      "item": "minecraft:breeze_rod"
+    }
+  },
+  "result": {
+    "id": "cubic_fruits:dumbbell",
+    "count": 1
+  }
+}
