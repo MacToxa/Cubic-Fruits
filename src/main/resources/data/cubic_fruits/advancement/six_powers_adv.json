@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:air"
+    },
+    "title": {
+      "translate": "advancements.six_powers_adv.title"
+    },
+    "description": {
+      "translate": "advancements.six_powers_adv.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "six_powers_adv_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "cubic_fruits:cubic_fruits_adv"
+}

@@ -21,7 +21,7 @@ import net.mcreator.cubicfruits.network.GameWikiMessage;
 
 @EventBusSubscriber(Dist.CLIENT)
 public class CubicFruitsModKeyMappings {
-	public static final KeyMapping TEKKAI = new KeyMapping("key.cubic_fruits.tekkai", GLFW.GLFW_KEY_H, "key.categories.misc") {
+	public static final KeyMapping TEKKAI = new KeyMapping("key.cubic_fruits.tekkai", GLFW.GLFW_KEY_H, "key.categories.cubicfruits") {
 		private boolean isDownOld = false;
 
 		@Override
@@ -34,7 +34,7 @@ public class CubicFruitsModKeyMappings {
 			isDownOld = isDown;
 		}
 	};
-	public static final KeyMapping GAME_WIKI = new KeyMapping("key.cubic_fruits.game_wiki", GLFW.GLFW_KEY_F6, "key.categories.misc") {
+	public static final KeyMapping GAME_WIKI = new KeyMapping("key.cubic_fruits.game_wiki", GLFW.GLFW_KEY_F6, "key.categories.cubicfruits") {
 		private boolean isDownOld = false;
 
 		@Override
@@ -60,12 +60,22 @@ public class CubicFruitsModKeyMappings {
 			isDownOld = isDown;
 		}
 	};
+	public static final KeyMapping ABILITY_1_KEY = new KeyMapping("key.cubic_fruits.ability_1_key", GLFW.GLFW_KEY_Z, "key.categories.cubicfruits");
+	public static final KeyMapping ABILITY_2_KEY = new KeyMapping("key.cubic_fruits.ability_2_key", GLFW.GLFW_KEY_X, "key.categories.cubicfruits");
+	public static final KeyMapping ABILITY_3_KEY = new KeyMapping("key.cubic_fruits.ability_3_key", GLFW.GLFW_KEY_C, "key.categories.cubicfruits");
+	public static final KeyMapping ABILITY_4_KEY = new KeyMapping("key.cubic_fruits.ability_4_key", GLFW.GLFW_KEY_V, "key.categories.cubicfruits");
+	public static final KeyMapping ABILITY_5_KEY = new KeyMapping("key.cubic_fruits.ability_5_key", GLFW.GLFW_KEY_G, "key.categories.cubicfruits");
 
 	@SubscribeEvent
 	public static void registerKeyMappings(RegisterKeyMappingsEvent event) {
 		event.register(TEKKAI);
 		event.register(GAME_WIKI);
 		event.register(MASTERY_CHECK);
+		event.register(ABILITY_1_KEY);
+		event.register(ABILITY_2_KEY);
+		event.register(ABILITY_3_KEY);
+		event.register(ABILITY_4_KEY);
+		event.register(ABILITY_5_KEY);
 	}
 
 	@EventBusSubscriber(Dist.CLIENT)

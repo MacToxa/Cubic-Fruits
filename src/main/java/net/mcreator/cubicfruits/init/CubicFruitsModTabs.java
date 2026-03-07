@@ -19,5 +19,6 @@ public class CubicFruitsModTabs {
 	public static final DeferredHolder<CreativeModeTab, CreativeModeTab> CUBIC_FRUITS = REGISTRY.register("cubic_fruits",
 			() -> CreativeModeTab.builder().title(Component.translatable("item_group.cubic_fruits.cubic_fruits")).icon(() -> new ItemStack(Blocks.STONE)).displayItems((parameters, tabData) -> {
 				tabData.accept(CubicFruitsModItems.DUMBBELL.get());
+				tabData.accept(CubicFruitsModItems.WADO_ICHIMONJI.get());
 			}).withSearchBar().build());
 }

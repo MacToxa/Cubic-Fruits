@@ -1,6 +1,6 @@
 modLoader="javafml"
 loaderVersion="[4,)"
-license="Not specified"
+license="GNU General Public License version 3 (GPLv3)"
 
 [[mods]]
 modId="cubic_fruits"
@@ -9,7 +9,7 @@ displayName="Cubic Fruits"
 displayURL="https://www.curseforge.com/minecraft/mc-mods/cubic-fruits"
 credits="Created using mod maker MCreator - https://mcreator.net/about"
 authors="MacToxa"
-description=" Blox Fruits & One Piece stuff in MC"
+description="Blox Fruits & One Piece stuff in MC"
 
 # Start of user code block mod configuration
 # End of user code block mod configuration

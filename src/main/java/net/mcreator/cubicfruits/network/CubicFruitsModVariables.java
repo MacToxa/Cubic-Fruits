@@ -69,6 +69,9 @@ public class CubicFruitsModVariables {
 		clone.tekkaiMasteryPercent = original.tekkaiMasteryPercent;
 		clone.tekkaiMasteryLevel = original.tekkaiMasteryLevel;
 		clone.tekkaiUsable = original.tekkaiUsable;
+		clone.geppoMasteryPercent = original.geppoMasteryPercent;
+		clone.geppoMasteryLevel = original.geppoMasteryLevel;
+		clone.geppoUsable = original.geppoUsable;
 		if (!event.isWasDeath()) {
 		}
 		event.getEntity().setData(PLAYER_VARIABLES, clone);
@@ -79,6 +82,9 @@ public class CubicFruitsModVariables {
 		public double tekkaiMasteryPercent = 0;
 		public double tekkaiMasteryLevel = 0;
 		public boolean tekkaiUsable = false;
+		public double geppoMasteryPercent = 0;
+		public double geppoMasteryLevel = 0;
+		public boolean geppoUsable = false;
 
 		@Override
 		public CompoundTag serializeNBT(HolderLookup.Provider lookupProvider) {
@@ -86,6 +92,9 @@ public class CubicFruitsModVariables {
 			nbt.putDouble("tekkaiMasteryPercent", tekkaiMasteryPercent);
 			nbt.putDouble("tekkaiMasteryLevel", tekkaiMasteryLevel);
 			nbt.putBoolean("tekkaiUsable", tekkaiUsable);
+			nbt.putDouble("geppoMasteryPercent", geppoMasteryPercent);
+			nbt.putDouble("geppoMasteryLevel", geppoMasteryLevel);
+			nbt.putBoolean("geppoUsable", geppoUsable);
 			return nbt;
 		}
 
@@ -94,6 +103,9 @@ public class CubicFruitsModVariables {
 			tekkaiMasteryPercent = nbt.getDouble("tekkaiMasteryPercent");
 			tekkaiMasteryLevel = nbt.getDouble("tekkaiMasteryLevel");
 			tekkaiUsable = nbt.getBoolean("tekkaiUsable");
+			geppoMasteryPercent = nbt.getDouble("geppoMasteryPercent");
+			geppoMasteryLevel = nbt.getDouble("geppoMasteryLevel");
+			geppoUsable = nbt.getBoolean("geppoUsable");
 		}
 
 		public void markSyncDirty() {

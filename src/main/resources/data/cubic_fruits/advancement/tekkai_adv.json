@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:air"
+    },
+    "title": {
+      "translate": "advancements.tekkai_adv.title"
+    },
+    "description": {
+      "translate": "advancements.tekkai_adv.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "tekkai_adv_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "cubic_fruits:six_powers_adv"
+}

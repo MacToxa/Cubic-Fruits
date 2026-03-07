@@ -1,0 +1,9 @@
+{
+  "_fv": 79,
+  "_type": "keybind",
+  "definition": {
+    "triggerKey": "X",
+    "keyBindingName": "Ability 2",
+    "keyBindingCategoryKey": "cubicfruits"
+  }
+}

@@ -4,6 +4,7 @@ import net.neoforged.api.distmarker.OnlyIn;
 import net.neoforged.api.distmarker.Dist;
 
 import net.minecraft.world.level.Level;
+import net.minecraft.world.item.UseAnim;
 import net.minecraft.world.item.TooltipFlag;
 import net.minecraft.world.item.ItemStack;
 import net.minecraft.world.item.Item;
@@ -18,6 +19,16 @@ import java.util.List;
 public class DumbbellItem extends Item {
 	public DumbbellItem() {
 		super(new Item.Properties().food((new FoodProperties.Builder()).nutrition(0).saturationModifier(0f).alwaysEdible().build()));
+	}
+
+	@Override
+	public UseAnim getUseAnimation(ItemStack itemstack) {
+		return UseAnim.NONE;
+	}
+
+	@Override
+	public int getUseDuration(ItemStack itemstack, LivingEntity livingEntity) {
+		return 0;
 	}
 
 	@Override

@@ -27,6 +27,7 @@ import net.minecraft.core.registries.BuiltInRegistries;
 
 import net.mcreator.cubicfruits.network.CubicFruitsModVariables;
 import net.mcreator.cubicfruits.init.CubicFruitsModTabs;
+import net.mcreator.cubicfruits.init.CubicFruitsModMobEffects;
 import net.mcreator.cubicfruits.init.CubicFruitsModMenus;
 import net.mcreator.cubicfruits.init.CubicFruitsModItems;
 
@@ -53,6 +54,7 @@ public class CubicFruitsMod {
 		CubicFruitsModTabs.REGISTRY.register(modEventBus);
 		CubicFruitsModVariables.ATTACHMENT_TYPES.register(modEventBus);
 
+		CubicFruitsModMobEffects.REGISTRY.register(modEventBus);
 		CubicFruitsModMenus.REGISTRY.register(modEventBus);
 
 		// Start of user code block mod init

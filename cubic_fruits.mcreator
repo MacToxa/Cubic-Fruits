@@ -16,7 +16,8 @@
         "files": [
           "src/main/java/net/mcreator/cubicfruits/procedures/TekkaiScriptProcedure.java"
         ]
-      }
+      },
+      "path": "~/SixPowers/Tekkai"
     },
     {
       "name": "Tekkai",
@@ -28,7 +29,8 @@
         "files": [
           "src/main/java/net/mcreator/cubicfruits/network/TekkaiMessage.java"
         ]
-      }
+      },
+      "path": "~/SixPowers/Tekkai"
     },
     {
       "name": "CubicFruits",
@@ -56,7 +58,8 @@
         "files": [
           "src/main/java/net/mcreator/cubicfruits/procedures/DumbbellUseProcedure.java"
         ]
-      }
+      },
+      "path": "~/SixPowers/Tekkai"
     },
     {
       "name": "Dumbbell",
@@ -69,7 +72,8 @@
           "src/main/java/net/mcreator/cubicfruits/item/DumbbellItem.java",
           "src/main/resources/assets/cubic_fruits/models/item/dumbbell.json"
         ]
-      }
+      },
+      "path": "~/SixPowers/Tekkai"
     },
     {
       "name": "GameWikiMain",
@@ -82,7 +86,8 @@
           "src/main/java/net/mcreator/cubicfruits/world/inventory/GameWikiMainMenu.java",
           "src/main/java/net/mcreator/cubicfruits/client/gui/GameWikiMainScreen.java"
         ]
-      }
+      },
+      "path": "~/GameWiki"
     },
     {
       "name": "GameWikiScript",
@@ -116,7 +121,8 @@
         "files": [
           "src/main/java/net/mcreator/cubicfruits/procedures/GameWikiScriptProcedure.java"
         ]
-      }
+      },
+      "path": "~/GameWiki"
     },
     {
       "name": "GameWiki",
@@ -128,7 +134,8 @@
         "files": [
           "src/main/java/net/mcreator/cubicfruits/network/GameWikiMessage.java"
         ]
-      }
+      },
+      "path": "~/GameWiki"
     },
     {
       "name": "DumbbellRecipe",
@@ -141,7 +148,8 @@
           "src/main/resources/data/cubic_fruits/advancement/recipes/dumbbell_recipe.json",
           "src/main/resources/data/cubic_fruits/recipe/dumbbell_recipe.json"
         ]
-      }
+      },
+      "path": "~/SixPowers/Tekkai"
     },
     {
       "name": "Mouth",
@@ -186,6 +194,202 @@
           "src/main/java/net/mcreator/cubicfruits/network/MasteryCheckMessage.java"
         ]
       }
+    },
+    {
+      "name": "TekkaiCD",
+      "type": "potioneffect",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tekkai_cd",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/cubicfruits/potion/TekkaiCDMobEffect.java"
+        ]
+      },
+      "path": "~/SixPowers/Tekkai"
+    },
+    {
+      "name": "WadoIchimonji",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wado_ichimonji",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/cubicfruits/item/WadoIchimonjiItem.java",
+          "src/main/resources/assets/cubic_fruits/models/item/wado_ichimonji.json"
+        ]
+      },
+      "path": "~/Swords"
+    },
+    {
+      "name": "Ability1CD",
+      "type": "potioneffect",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ability_1_cd",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/cubicfruits/potion/Ability1CDMobEffect.java"
+        ]
+      },
+      "path": "~/SharedAbilityCDs"
+    },
+    {
+      "name": "Ability2CD",
+      "type": "potioneffect",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ability_2_cd",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/cubicfruits/potion/Ability2CDMobEffect.java"
+        ]
+      },
+      "path": "~/SharedAbilityCDs"
+    },
+    {
+      "name": "Ability3CD",
+      "type": "potioneffect",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ability_3_cd",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/cubicfruits/potion/Ability3CDMobEffect.java"
+        ]
+      },
+      "path": "~/SharedAbilityCDs"
+    },
+    {
+      "name": "Ability4CD",
+      "type": "potioneffect",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ability_4_cd",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/cubicfruits/potion/Ability4CDMobEffect.java"
+        ]
+      },
+      "path": "~/SharedAbilityCDs"
+    },
+    {
+      "name": "Ability5CD",
+      "type": "potioneffect",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ability_5_cd",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/cubicfruits/potion/Ability5CDMobEffect.java"
+        ]
+      },
+      "path": "~/SharedAbilityCDs"
+    },
+    {
+      "name": "Ability1Key",
+      "type": "keybind",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ability_1_key",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/cubicfruits/network/Ability1KeyMessage.java"
+        ]
+      },
+      "path": "~/SharedAbilityCDs"
+    },
+    {
+      "name": "Ability2Key",
+      "type": "keybind",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ability_2_key",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/cubicfruits/network/Ability2KeyMessage.java"
+        ]
+      },
+      "path": "~/SharedAbilityCDs"
+    },
+    {
+      "name": "Ability3Key",
+      "type": "keybind",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ability_3_key",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/cubicfruits/network/Ability3KeyMessage.java"
+        ]
+      },
+      "path": "~/SharedAbilityCDs"
+    },
+    {
+      "name": "Ability4Key",
+      "type": "keybind",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ability_4_key",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/cubicfruits/network/Ability4KeyMessage.java"
+        ]
+      },
+      "path": "~/SharedAbilityCDs"
+    },
+    {
+      "name": "Ability5Key",
+      "type": "keybind",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ability_5_key",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/cubicfruits/network/Ability5KeyMessage.java"
+        ]
+      },
+      "path": "~/SharedAbilityCDs"
+    },
+    {
+      "name": "CubicFruitsAdv",
+      "type": "achievement",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cubic_fruits_adv",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/cubic_fruits/advancement/cubic_fruits_adv.json"
+        ]
+      },
+      "path": "~/Achievments"
+    },
+    {
+      "name": "SixPowersAdv",
+      "type": "achievement",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "six_powers_adv",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/cubic_fruits/advancement/six_powers_adv.json"
+        ]
+      },
+      "path": "~/Achievments"
+    },
+    {
+      "name": "TekkaiAdv",
+      "type": "achievement",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tekkai_adv",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/cubic_fruits/advancement/tekkai_adv.json"
+        ]
+      },
+      "path": "~/Achievments"
     }
   ],
   "variable_elements": [
@@ -206,10 +410,32 @@
       "type": "logic",
       "scope": "player_persistent",
       "value": "false"
+    },
+    {
+      "name": "geppoMasteryPercent",
+      "type": "number",
+      "scope": "player_persistent",
+      "value": "0"
+    },
+    {
+      "name": "geppoMasteryLevel",
+      "type": "number",
+      "scope": "player_persistent",
+      "value": "0"
+    },
+    {
+      "name": "geppoUsable",
+      "type": "logic",
+      "scope": "player_persistent",
+      "value": "false"
     }
   ],
   "sound_elements": [],
-  "tag_elements": {},
+  "tag_elements": {
+    "ITEMS:minecraft:swords": [
+      "~CUSTOM:WadoIchimonji"
+    ]
+  },
   "tab_element_order": {},
   "language_map": {
     "en_us": {
@@ -226,7 +452,27 @@
       "gui.cubic_fruits.game_wiki_main.label_or_put_an_item_here_and_search": "Or put an item here and search",
       "key.cubic_fruits.game_wiki": "In-game wiki",
       "curios.identifier.mouth": "Mouth",
-      "key.cubic_fruits.mastery_check": "Mastery check"
+      "key.cubic_fruits.mastery_check": "Mastery check",
+      "effect.cubic_fruits.tekkai_cd": "Iron Body cooldown",
+      "key.categories.cubicfruits": "",
+      "item.cubic_fruits.wado_ichimonji": "Wado Ichimonji",
+      "item.cubic_fruits.wado_ichimonji.description_0": "Woah... Something about this sword feels special",
+      "effect.cubic_fruits.ability_1_cd": "Ability 1 CD",
+      "effect.cubic_fruits.ability_2_cd": "Ability 2 CD",
+      "effect.cubic_fruits.ability_3_cd": "Ability 3 CD",
+      "effect.cubic_fruits.ability_4_cd": "Ability 4 CD (Ultimate)",
+      "effect.cubic_fruits.ability_5_cd": "Ability 5 CD (Movement)",
+      "key.cubic_fruits.ability_1_key": "Ability 1",
+      "key.cubic_fruits.ability_2_key": "Ability 2",
+      "key.cubic_fruits.ability_3_key": "Ability 3",
+      "key.cubic_fruits.ability_4_key": "Ability 4 (Ultimate)",
+      "key.cubic_fruits.ability_5_key": "Ability 5 (Movement)",
+      "advancements.cubic_fruits_adv.descr": "Will you be able to find that one fruit or at least One Piece of it?",
+      "advancements.cubic_fruits_adv.title": "Cubic Fruits",
+      "advancements.six_powers_adv.descr": "Spanda likes those",
+      "advancements.six_powers_adv.title": "Six Powers",
+      "advancements.tekkai_adv.title": "Tekkai",
+      "advancements.tekkai_adv.descr": "Slapped by gear 3"
     }
   },
   "metadata": {
@@ -236,6 +482,7 @@
       "src/main/java/net/mcreator/cubicfruits/init/CubicFruitsModMenus.java",
       "src/main/java/net/mcreator/cubicfruits/utils/FluidStackWidget.java",
       "src/main/java/net/mcreator/cubicfruits/init/CubicFruitsModKeyMappings.java",
+      "src/main/java/net/mcreator/cubicfruits/init/CubicFruitsModMobEffects.java",
       "src/main/java/net/mcreator/cubicfruits/init/CubicFruitsModItems.java",
       "src/main/java/net/mcreator/cubicfruits/CubicFruitsMod.java",
       "src/main/java/net/mcreator/cubicfruits/network/CubicFruitsModVariables.java",
@@ -247,16 +494,50 @@
   },
   "foldersRoot": {
     "name": "~",
-    "children": []
+    "children": [
+      {
+        "name": "SixPowers",
+        "children": [
+          {
+            "name": "Tekkai",
+            "children": []
+          },
+          {
+            "name": "Geppo",
+            "children": []
+          },
+          {
+            "name": "Soru",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "GameWiki",
+        "children": []
+      },
+      {
+        "name": "Swords",
+        "children": []
+      },
+      {
+        "name": "SharedAbilityCDs",
+        "children": []
+      },
+      {
+        "name": "Achievments",
+        "children": []
+      }
+    ]
   },
   "workspaceSettings": {
     "modid": "cubic_fruits",
     "modName": "Cubic Fruits",
     "version": "0.1.0",
-    "description": " Blox Fruits \u0026 One Piece stuff in MC",
+    "description": "Blox Fruits \u0026 One Piece stuff in MC",
     "author": "MacToxa",
     "websiteURL": "https://www.curseforge.com/minecraft/mc-mods/cubic-fruits",
-    "license": "Not specified",
+    "license": "GNU General Public License version 3 (GPLv3)",
     "serverSideOnly": false,
     "requiredMods": [],
     "dependencies": [],

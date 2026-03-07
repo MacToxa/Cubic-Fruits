@@ -1,0 +1,9 @@
+{
+  "_fv": 79,
+  "_type": "keybind",
+  "definition": {
+    "triggerKey": "V",
+    "keyBindingName": "Ability 4 (Ultimate)",
+    "keyBindingCategoryKey": "cubicfruits"
+  }
+}

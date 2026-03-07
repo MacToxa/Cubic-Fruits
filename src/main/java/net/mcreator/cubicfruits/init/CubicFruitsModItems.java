@@ -8,14 +8,17 @@ import net.neoforged.neoforge.registries.DeferredItem;
 
 import net.minecraft.world.item.Item;
 
+import net.mcreator.cubicfruits.item.WadoIchimonjiItem;
 import net.mcreator.cubicfruits.item.DumbbellItem;
 import net.mcreator.cubicfruits.CubicFruitsMod;
 
 public class CubicFruitsModItems {
 	public static final DeferredRegister.Items REGISTRY = DeferredRegister.createItems(CubicFruitsMod.MODID);
 	public static final DeferredItem<Item> DUMBBELL;
+	public static final DeferredItem<Item> WADO_ICHIMONJI;
 	static {
 		DUMBBELL = REGISTRY.register("dumbbell", DumbbellItem::new);
+		WADO_ICHIMONJI = REGISTRY.register("wado_ichimonji", WadoIchimonjiItem::new);
 	}
 	// Start of user code block custom items
 	// End of user code block custom items
