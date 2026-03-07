@@ -1,0 +1,12 @@
+{
+  "_fv": 79,
+  "_type": "curiosslot",
+  "definition": {
+    "texture": "mouth.png",
+    "name": "Mouth",
+    "amount": 1,
+    "modelToggling": false,
+    "changeOrder": true,
+    "slotOrder": 5
+  }
+}

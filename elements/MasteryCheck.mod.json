@@ -1,0 +1,12 @@
+{
+  "_fv": 79,
+  "_type": "keybind",
+  "definition": {
+    "triggerKey": "F7",
+    "keyBindingName": "Mastery check",
+    "keyBindingCategoryKey": "cubicfruits",
+    "onKeyPressed": {
+      "name": "MasteryCheckScript"
+    }
+  }
+}

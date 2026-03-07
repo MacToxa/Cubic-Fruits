@@ -1,0 +1,11 @@
+{
+  "_fv": 79,
+  "_type": "tab",
+  "definition": {
+    "name": "Cubic Fruits",
+    "icon": {
+      "value": "Blocks.STONE#0"
+    },
+    "showSearch": true
+  }
+}
