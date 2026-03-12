@@ -1,2 +1,76 @@
 # Cubic-Fruits
 Unity (MMO)RPG fan game heavily inspired by One Piece &amp; Blox Fruits
+### Planned stuff:
+- Fruits
+   - Light
+   - Bomb 
+   - Rumble
+   - Rubber
+     - Hand extension
+     - Barrage
+     - Passive: Rubber body
+       - Bullets get reflected on the sender
+   - Ice
+      - Icicle Barrage
+        - Sends out 10 icicles with a large spread that home in on the initial cursor position
+      - Ice Surge
+      - Ice Phoenix
+        - A strong flying projectile that cannot be destroyed or blocked in any way
+      - Glacial Age
+      - Passive: Water Freeze
+        - Freezes water underneath the user
+      - Passive: Ice Time
+        - Critical melee strikes freeze opponents
+   - Ghost
+      - Soul Harvest
+        - Harvests souls that are needed for abilities
+      - Soul Barrage
+        - Shoots out a barrage of stored souls while held
+      - Passive: Second Life
+        - Gives the player a second life with 50% max HP after their death
+   - ...
+- Six Powers
+   - Geppo
+     - Main source of double jumps
+   - Tekkai
+     - Blocking & tanking damage should require skill to pull off effectively
+   - Rankyaku
+     - Upgrade to Geppo
+   - Soru
+      - Done by pressing the jump button 10 times in one second, it gets easier to execute with mastery
+   - Shigan
+     - Good melee
+   - Kami-e
+     - An alternative to Observation Haki?
+   - Rokuogan
+     - Final upgrade to Shigan?
+- Mastery
+   - Fruit mastery
+   - Six Powers mastery
+   - FS mastery
+   - Sword style mastery
+   - Haki mastery
+   - Mastery menu with progress for every mastery
+- Haki/Aura
+   - Armanent Haki
+     - Able to hit elemental/logia fruits
+     - Some enemies should spawn with it, to not make elemental fruits OP
+   - Observation Haki
+   - Aura (Conqueror's Haki)
+     - Mainly should be a PVE QoL attack to make grinding easier
+- Multiple characters/save slots
+- Races
+  - Some unlock when you reach the max level for a certain number of times
+  - Hard to do quests
+- Sword styles:
+  - offhand + main hand = two sword style
+  - offhand + mouth + main hand = three sword style
+  - ? unique attack with each sword combination
+  - ..?
+- Obtaining items
+  - Fruit traders
+    - Random fruits (gacha)
+  - Sword traders
+    - Blacksmith
+- Wiki
+### Currently working on:
