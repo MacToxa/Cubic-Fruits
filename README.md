@@ -41,7 +41,7 @@ Unity (MMO)RPG fan game heavily inspired by One Piece &amp; Blox Fruits
    - Shigan
      - Good melee
    - Kami-e
-     - An alternative to Observation Haki?
+     - (?) An alternative to Observation Haki
    - Rokuogan
      - Final upgrade to Shigan?
 - Mastery
@@ -51,6 +51,26 @@ Unity (MMO)RPG fan game heavily inspired by One Piece &amp; Blox Fruits
    - Sword style mastery
    - Haki mastery
    - Mastery menu with progress for every mastery
+- Level (Total Mastery)
+   - 3 ways to gain level:
+      - Gaining mastery
+      - Defeating hard-to-beat bosses
+      - Quests
+   - Gaining a new level gives you 3 points, which you can spend on
+      - Armor (more health)
+      - Energy
+      - Fruit Power
+      - FS Power
+      - Gun Power
+   - (?) Every 10 levels, you get a special point, which you can spend on
+      - (?) Intelligence (faster mastery gain)
+      - Endurance (3 armor points, buffs the Six Powers)
+      - Willpower (3 energy points, buffs haki)
+      - (?) Charisma (gives you better dialogue options)
+- Power Level
+   - A stat that is a combination of your total level, haki mastery, Six Powers mastery, and race level
+   - Used to showcase how powerful you are overall
+   - Used for PVP
 - Haki/Aura
    - Armanent Haki
      - Able to hit elemental/logia fruits
@@ -61,6 +81,7 @@ Unity (MMO)RPG fan game heavily inspired by One Piece &amp; Blox Fruits
 - Multiple characters/save slots
 - Races
   - Some unlock when you reach the max level for a certain number of times
+  - Start with different exclusive fighting styles
   - Hard to do quests
 - Sword styles:
   - offhand + main hand = two sword style
