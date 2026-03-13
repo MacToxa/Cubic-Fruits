@@ -1,5 +1,5 @@
 # Cubic-Fruits
-Unity (MMO)RPG fan game heavily inspired by One Piece &amp; Blox Fruits
+Godot (MMO)RPG fan game heavily inspired by One Piece &amp; Blox Fruits
 ### Planned stuff:
 - Fruits
    - Light
@@ -22,10 +22,17 @@ Unity (MMO)RPG fan game heavily inspired by One Piece &amp; Blox Fruits
       - Passive: Ice Time
         - Critical melee strikes freeze opponents
    - Ghost
+      - Negative Soul
+         - Sends out a slow, small white ghost projectile that stuns enemies for 3 seconds on hit (uses 1 soul)
+         - CD: 6s
       - Soul Harvest
-        - Harvests souls that are needed for abilities
+        - Harvests souls that are needed for abilities by killing low HP enemies with a big cyan scythe (10% HP, non-boss)
+        - CD: 2s
       - Soul Barrage
         - Shoots out a barrage of stored souls while held
+        - CD: 3s
+      - ...
+      - 
       - Passive: Second Life
         - Gives the player a second life with 50% max HP after their death
    - ...
