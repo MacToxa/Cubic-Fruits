@@ -1,4 +1,5 @@
-### Planned stuff:
+(?) - under consideration
+### Weapons
 - Fruits
    - Light
    - Bomb 
@@ -56,13 +57,25 @@
    - Sword style mastery
    - Haki mastery
    - Mastery menu with progress for every mastery
+- Haki/Aura
+   - Armanent Haki
+     - Able to hit elemental/logia fruits
+     - Some enemies should spawn with it, to not make elemental fruits OP
+   - Observation Haki
+   - Aura (Conqueror's Haki)
+     - Mainly should be a PVE QoL attack to make grinding easier
+- Sword styles:
+  - Each sword style gets its own set of 5-6+ attacks
+  - Unique attack(s) with each sword combination
+  - ..?
+### Progression
 - Level (Total Mastery)
    - 3 ways to gain level:
       - Gaining mastery
       - Defeating hard-to-beat bosses
       - Quests
    - Gaining a new level gives you 3 points, which you can spend on
-      - Armor (more health)
+      - Defense (armor + health)
       - Energy
       - Fruit Power
       - FS Power
@@ -76,26 +89,26 @@
    - A stat that is a combination of your total level, haki mastery, Six Powers mastery, and race level
    - Used to showcase how powerful you are overall
    - Used for PVP
-- Haki/Aura
-   - Armanent Haki
-     - Able to hit elemental/logia fruits
-     - Some enemies should spawn with it, to not make elemental fruits OP
-   - Observation Haki
-   - Aura (Conqueror's Haki)
-     - Mainly should be a PVE QoL attack to make grinding easier
-- Multiple characters/save slots
-- Races
-  - Some unlock when you reach the max level for a certain number of times
-  - Start with different exclusive fighting styles
-  - Hard to do quests
-- Sword styles:
-  - offhand + main hand = two sword style
-  - offhand + mouth + main hand = three sword style
-  - ? unique attack with each sword combination
-  - ..?
 - Obtaining items
   - Fruit traders
     - Random fruits (gacha)
   - Sword traders
     - Blacksmith
 - Wiki
+### Character creation
+- Multiple characters/save slots
+- Races
+  - Some unlock when you reach the max level for a certain number of times
+  - Start with different exclusive fighting styles
+  - Hard to do quests
+- (?) Curses
+   - Buffs and debuffs, you get them by completing quests
+   - Marathon runner (x3 mastery gain, but the defense stat is halved)
+   - (?) Alcoholic (Drinking liquor gives small buffs, but not drinking it for a while results in twice the buffs applied as debuffs (if that makes sense))
+   - Cursed sword (Start with a cursed sword that progressively messes up your sense of direction during the time it is equipped)
+### Customization
+- Titles (Achievements)
+   - ...
+### Server-specific stuff
+- You should be able to host your own servers if you wish to
+- (?) Steam coop
