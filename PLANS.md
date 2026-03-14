@@ -106,6 +106,7 @@
    - Marathon runner (x3 mastery gain, but the defense stat is halved)
    - (?) Alcoholic (Drinking liquor gives small buffs, but not drinking it for a while results in twice the buffs applied as debuffs (if that makes sense))
    - Cursed sword (Start with a cursed sword that progressively messes up your sense of direction during the time it is equipped)
+   - Negative (Grants complete immunity against Ghost fruit's stun from attacks, but the charisma stat is randomly rolled and is immutable for the rest of the game)
 ### Customization
 - Titles (Achievements)
    - ...
