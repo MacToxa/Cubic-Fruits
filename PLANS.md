@@ -64,10 +64,12 @@
    - Observation Haki
    - Aura (Conqueror's Haki)
      - Mainly should be a PVE QoL attack to make grinding easier
-- Sword styles:
+- Sword styles
   - Each sword style gets its own set of 5-6+ attacks
   - Unique attack(s) with each sword combination
   - ..?
+- Swords
+- Fighting styles (FS)
 ### Progression
 - Level (Total Mastery)
    - 3 ways to gain level:
@@ -98,11 +100,59 @@
 ### Character creation
 - Multiple characters/save slots
 - Races
-  - Some unlock when you reach the max level for a certain number of times
-  - Start with different exclusive fighting styles
-  - Hard to do quests
+  - *Some unlock when you reach the max level for a certain number of times*
+  - *Start with different fighting styles, race upgrades give their FS more moves*
+  - *Obtained by doing hard-to-do quests*
+  - *Once more than one race is unlocked, the player can choose them upon creating a new character*
+  - Human (Default)
+     - *Balanced race that focuses on tankiness*
+     - Normal (v1)
+        - No buffs
+        - (?) Start with Makeshift Style
+     - Upgraded (v2)
+        - Six Powers cooldowns decreased by 10%
+        - New move: Iron Fist (requires Tekkai to be active)
+     - Transcended (v3)
+     - Awakened (v4)
+     - Limit broken (v5
+  - Aquaman
+     - Normal (v1)
+        - Increased movement speed in water
+        - Start with Aquaman Karate
+     - Upgraded (v2)
+        - 75% damage reduction from water for fruit users
+        - 
+     - Transcended (v3)
+     - Awakened (v4)
+     - Limit broken (v5
+  - Angel
+     - Normal (v1)
+     - Upgraded (v2)
+     - Transcended (v3)
+     - Awakened (v4)
+     - Limit broken (v5
+  - Cyborg
+     - *DPS-focused race*
+     - Normal (v1)
+        - 5% chance to hit a critical hit, dealing double damage with any attack
+        - 10% damage decrease from the front
+        - Start with ???
+     - Upgraded (v2)
+        - 10% chance to hit a critical hit
+        - Ranged attacks deal 10% extra damage
+        - Explosives deal 10% extra damage
+        - New move: Fist Launch
+     - Transcended (v3)
+     - Awakened (v4)
+     - Limit broken (v5
+  - (?) Vampire
+     - Normal (v1)
+     - Upgraded (v2)
+     - Transcended (v3)
+     - Awakened (v4)
+     - Limit broken (v5
 - (?) Curses
-   - Buffs and debuffs, you get them by completing quests
+   - *Buffs and debuffs, you get them by completing quests*
    - Marathon runner (x3 mastery gain, but the defense stat is halved)
    - (?) Alcoholic (Drinking liquor gives small buffs, but not drinking it for a while results in twice the buffs applied as debuffs (if that makes sense))
    - Cursed sword (Start with a cursed sword that progressively messes up your sense of direction during the time it is equipped)
