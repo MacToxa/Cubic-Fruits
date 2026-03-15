@@ -34,6 +34,22 @@
       - 
       - Passive: Second Life
         - Gives the player a second life with 50% max HP after their death
+   - Shadow
+      - Bat Swarm
+         - Launches a swarm of 15 bats at the cursor
+         - Empowered version: launches a huge, fast bat that deals a lot of damage
+      - ???
+         - ???
+      - ???
+         - Toggles a stand-like entity resembling the user that allows them to use the fruit's melee attacks
+         - No attacks except the melee can be used while it is on
+         - Empowered version: the entity hits the space in front of the user with a giant dark fist. If nothing is hit, then the fist is sent flying in the direction of the cursor. The fist loses 20% of its damage when it starts flying.
+      - Shadow Domain
+         - Spreads out 25-30 clones of the player over a huge circular area for 3 seconds, and then they are quickly pulled back into the user
+         - The user is stunned while using this attack
+         - If an enemy hits any one of them before the user, the stun goes away, and the next attack is empowered
+         - If an enemy hits the user before any of the clones, the clones disappear, and the user remains stunned until the 3 seconds are over.
+         - If nothing is hit during the 3 seconds, the player is stunned for an additional second after the attack ends
    - ...
 - Six Powers
    - Geppo
